@@ -13,3 +13,6 @@ test 입니다! --- admin
 
 [team	3]
 !!!!!!
+
+[amdin3]
+33333 ---admin
