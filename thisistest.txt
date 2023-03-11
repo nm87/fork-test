@@ -5,3 +5,7 @@ test 입니다!
 
 [team]
 test 입니다 --- team
+
+
+[admin2]
+test 입니다! --- admin
